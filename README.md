@@ -14,10 +14,12 @@ This app allows users to perform basic arithmetic operations directly in the bro
 
 ## 📁 Project Structure
 
+```
 calculator/
-├── index.html # Webpage structure  
-├── script.js # JavaScript functionality  
+├── index.html # Webpage structure
+├── script.js # JavaScript functionality
 └── style.css # App styling
+```
 
 ---
 
